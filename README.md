@@ -16,3 +16,5 @@ This project scrapes the following data from Amazon product pages:
 <li>Description </li>
 <li>Product Reviews </li>
 <li>Asin</li>
+<h1>Number of pages Scraped</h1>
+<li>Multiple Pages</li>
