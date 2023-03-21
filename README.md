@@ -18,3 +18,7 @@ This project scrapes the following data from Amazon product pages:
 <li>Asin</li>
 <h1>Number of pages Scraped</h1>
 <li>Multiple Pages</li>
+<h1>Limitations</h1>
+<li>Need to increase no of attempts to get more accurate data</li>
+<li>Needed to make requests to get Data</li>
+<li>Needed to wait until server accepts the request</li>
